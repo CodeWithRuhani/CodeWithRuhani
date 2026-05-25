@@ -1,11 +1,11 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+This+is+Ruhani+Gera+👨🏻‍💻;" />
 </h1>
-<h3 align="center">Intern AI Engineer 👩🏻‍💻 </h3>
+<h3 align="center"> AI Engineer 👩🏻‍💻 </h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
 
 
-- 🔭 I’m currently working on **building rag chatbots and AI Agents.**
+- 🔭 I’m currently working on **building RAG systems , Automation Workflows and AI Agents.**
 - 🌱 I’m currently learning **Automation workflows and fine tuning of already trained models.**
 - 💬 Ask me about **Python ,Node.js ,Typescript, Machine Learning , Deep Learning ,RAG , AI AGENTS , Generative AI.**
   <br>
